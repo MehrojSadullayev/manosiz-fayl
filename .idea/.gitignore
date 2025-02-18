@@ -1,0 +1,8 @@
+# Default ignored files
+/../../oddi /.idea/shelf/
+/../../oddi /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../oddi /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../oddi /.idea/dataSources/
+/../../oddi /.idea/dataSources.local.xml
